@@ -1,0 +1,7 @@
+{
+  "name": "now-telegram-bot",
+  "version": "1.0.0",
+  "description": "Basic Telegram bot running on now.sh",
+  "author": "Martín M.",
+  "license": "MIT"
+}
